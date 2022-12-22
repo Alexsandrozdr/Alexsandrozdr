@@ -5,5 +5,6 @@ web development student, focused and dedicated in learning , buscando se aprimor
 
 - 🌱 I’m currently learning : HTML, CSS, JAVASCRIPT, NODEJS, EJS...
 - 📫 How to reach me:  andynhozdr@gmail.com
-- ⚡ Fun fact:  O que eu não sei?  A internet ensina!
+- ⚡ Fun fact:  O que eu não sei?  A internet ensina!!
+
 
