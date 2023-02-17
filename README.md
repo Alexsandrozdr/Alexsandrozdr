@@ -20,7 +20,7 @@
 </div>
   
 ##
-# 👀 Como entrar em contato❓🤔 https://alexsandrozdr.github.io/card  🪪
+# 👀 Como entrar em contato❓🤔 
 
 <div>
   <a href="https://www.youtube.com/@joker-pdc2917/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
